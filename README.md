@@ -1,7 +1,7 @@
 ### Olá, meu nome é Maria Eduarda 😄
 
 Sou estudante do 2º semestre de Ciência da Computação <br>
-Amo tecnologia, amo aprender, e principalmente, amo aprender tecnologia 🎮💻📚🤓<br>
+Amo tecnologia, amo aprender, e principalmente, amo aprender tecnologia 🎮💻📚<br>
 Me contate no LinkedIn: https://www.linkedin.com/in/mariaeduardasiqueira/<br>
 <div>
   <a href="https://github.com/mariaEduarda-codes">
