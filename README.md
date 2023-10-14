@@ -1,4 +1,4 @@
-###👋 Hello there! I'm Maria Eduarda, a System Analysis and Development student, with a relentless curiosity for technology and a passion for continuous learning. Welcome to my profile! <br>
+👋 Hello there! I'm Maria Eduarda, a System Analysis and Development student, with a relentless curiosity for technology and a passion for continuous learning. Welcome to my profile! <br>
 
 🎓 Currently pursuing studies in System Analysis and Development, I am on a quest to explore the vast realms of IT, discovering the intersections where innovation and problem-solving meet. <br>
 
